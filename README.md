@@ -20,13 +20,13 @@ The Java topics are categorized into different folders under the `src` directory
   
 ## How to Use
 
-Navigate to the relevant topic folder inside src/, and compile the Java files using your preferred IDE or the command line:
-
-  javac ClassName.java
-Run the compiled Java program:
-
-java ClassName
-
 1. Clone this repository to your local machine:
    
-https://github.com/Ashishwayachal12/JavaCode
+       https://github.com/Ashishwayachal12/JavaCode
+
+2.Navigate to the relevant topic folder inside src/, and compile the Java files using your preferred IDE or the command line:
+
+    javac ClassName.java
+3.Run the compiled Java program:
+
+    java ClassName
