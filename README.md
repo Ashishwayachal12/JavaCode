@@ -21,6 +21,5 @@ The Java topics are categorized into different folders under the `src` directory
 ## How to Use
 
 1. Clone this repository to your local machine:
-   ```bash
    
 https://github.com/Ashishwayachal12/JavaCode
